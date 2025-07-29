@@ -71,12 +71,6 @@ It provides RESTful APIs for vehicle inventory, user management, booking, paymen
 - **tmp/**: Temporary files; not relevant for versioning.
 
 ## Getting Started
-
-1. **Clone the repository:**  
-```bash
-   git clone https://github.com/festus-sulumeti/mushroom-motors-rental-backend.git
-
-```
 ```bash
    cd mushroom-motors-rental-backend
 ```
